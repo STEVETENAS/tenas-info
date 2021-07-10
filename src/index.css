@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .myWhite{
+        color:#E2E2E2;
+    }
+    .myWhiteBG{
+        background-color: #F2F1F1;
+    }
+    .myBG{
+        background-color : #E1845B;
+    }
+    .primary{
+        border-color : #E1845B;
+    }
+    .textColor{
+        color: #D1CECE;
+    }
+}
