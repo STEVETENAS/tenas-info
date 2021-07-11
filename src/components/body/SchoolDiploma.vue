@@ -1,4 +1,5 @@
 <template>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <div class="myWhiteBG space-y-4 items-center w-screen">
 
     <div class="flex items-center justify-between">
@@ -10,17 +11,23 @@
     <div class="flex flex-nowrap tablet:justify-around items-center space-x-3 overflow-x-scroll overflow-x-hidden mx-4">
       <div class="flex flex-col w-40 h-32 mb-6 rounded-2xl border-primary border-2 p-4 space-y-3 text-center tablet:py-10">
         <p class="text-gray-700 font-sans font-bold"> GCE Ordinary Level </p>
-        <button class="myBG rounded-md text-gray-200 p-2 hover:myOrangeD hover:bg-myOrangeD">Download</button>
+        <a href="/src/assets/SchoolDiplomas/OL-min.pdf"  download="Ordinary Level transcript.pdf">
+          <button class="myBG rounded-md text-gray-200 p-2 hover:myOrangeD hover:bg-myOrangeD"> <i class="fa fa-download"/> Download</button>
+        </a>
       </div>
 
       <div class="flex flex-col w-40 h-32 mb-6 rounded-2xl border-primary border-2 p-4 space-y-3 text-center tablet:py-10">
         <p class="text-gray-700 font-sans font-bold"> GCE Advance Level </p>
-        <button class="myBG rounded-md text-gray-200 p-2 hover:myOrangeD hover:bg-myOrangeD">Download</button>
+        <a href="/src/assets/SchoolDiplomas/AL.pdf"  download="Advance Level transcript.pdf">
+          <button class="myBG rounded-md text-gray-200 p-2 hover:myOrangeD hover:bg-myOrangeD"> <i class="fa fa-download"/> Download </button>
+        </a>
       </div>
 
       <div class="flex flex-col w-40 h-32 mb-6 rounded-2xl border-primary border-2 p-4 space-y-3 text-center tablet:py-10">
         <p class="text-gray-700 font-sans font-bold"> <abbr title="Dimplome d'etude collegial en proframmantion et application Mobile">DEC</abbr> From CCNB Canada </p>
-        <button class="myBG rounded-md text-gray-200 p-2 hover:myOrangeD hover:bg-myOrangeD">Download</button>
+        <a href="/src/assets/SchoolDiplomas/RN-min.pdf"  download="Mark Sheet 2019-2020.pdf">
+          <button class="myBG rounded-md text-gray-200 p-2 hover:myOrangeD hover:bg-myOrangeD"> <i class="fa fa-download"/> Download </button>
+        </a>
       </div>
 
     </div>
