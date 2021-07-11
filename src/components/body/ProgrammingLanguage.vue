@@ -8,11 +8,11 @@
     </div>
 
     <div class="flex laptop:justify-around space-x-4 tablet:space-x-6 mx-4 overflow-x-hidden overflow-x-scroll scrollbar-hide">
-      <img src="src/assets/ProgrammingLanguage/java.png" alt="Java" class="w-40 h-40 rounded-2xl border-2 border-primary shadow p-4">
-      <img src="src/assets/ProgrammingLanguage/Csharp.png" alt="Csharp" class="w-40 h-40 rounded-2xl border-2 border-primary p-4 shadow">
-      <img src="src/assets/ProgrammingLanguage/JavaScript-logo.png" alt="JavaScript" class="w-40 h-40 rounded-2xl border-2 border-primary p-4 shadow">
-      <img src="src/assets/ProgrammingLanguage/php.png" alt="php" class="w-40 h-40 rounded-2xl border-2 border-primary p-4 shadow">
-      <img src="src/assets/ProgrammingLanguage/CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="HTML5 CSS3" class="w-40 h-40 rounded-2xl border-2 border-primary p-4 shadow">
+      <img src="/src/assets/ProgrammingLanguage/java.png" alt="Java" class="w-40 h-40 rounded-2xl border-2 border-primary shadow p-4">
+      <img src="/src/assets/ProgrammingLanguage/Csharp.png" alt="Csharp" class="w-40 h-40 rounded-2xl border-2 border-primary p-4 shadow">
+      <img src="/src/assets/ProgrammingLanguage/JavaScript-logo.png" alt="JavaScript" class="w-40 h-40 rounded-2xl border-2 border-primary p-4 shadow">
+      <img src="/src/assets/ProgrammingLanguage/php.png" alt="php" class="w-40 h-40 rounded-2xl border-2 border-primary p-4 shadow">
+      <img src="/src/assets/ProgrammingLanguage/CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="HTML5 CSS3" class="w-40 h-40 rounded-2xl border-2 border-primary p-4 shadow">
     </div>
 
   </div>

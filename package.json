@@ -6,6 +6,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "reakit": "^1.3.8",
     "tailwind-scrollbar-hide": "^1.0.3",
     "vue": "^3.0.5"
   },
